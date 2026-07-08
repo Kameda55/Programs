@@ -1,0 +1,12 @@
+C:\Users\renre\source\repos\TAKIGYO\TAKIGYO\bin\Debug\TAKIGYO.exe.config
+C:\Users\renre\source\repos\TAKIGYO\TAKIGYO\bin\Debug\TAKIGYO.exe
+C:\Users\renre\source\repos\TAKIGYO\TAKIGYO\bin\Debug\TAKIGYO.pdb
+C:\Users\renre\source\repos\TAKIGYO\TAKIGYO\bin\Debug\TAKIGYO.xml
+C:\Users\renre\source\repos\TAKIGYO\TAKIGYO\obj\Debug\TAKIGYO.vbproj.AssemblyReference.cache
+C:\Users\renre\source\repos\TAKIGYO\TAKIGYO\obj\Debug\TAKIGYO.Form1.resources
+C:\Users\renre\source\repos\TAKIGYO\TAKIGYO\obj\Debug\TAKIGYO.Resources.resources
+C:\Users\renre\source\repos\TAKIGYO\TAKIGYO\obj\Debug\TAKIGYO.vbproj.GenerateResource.cache
+C:\Users\renre\source\repos\TAKIGYO\TAKIGYO\obj\Debug\TAKIGYO.vbproj.CoreCompileInputs.cache
+C:\Users\renre\source\repos\TAKIGYO\TAKIGYO\obj\Debug\TAKIGYO.exe
+C:\Users\renre\source\repos\TAKIGYO\TAKIGYO\obj\Debug\TAKIGYO.xml
+C:\Users\renre\source\repos\TAKIGYO\TAKIGYO\obj\Debug\TAKIGYO.pdb
